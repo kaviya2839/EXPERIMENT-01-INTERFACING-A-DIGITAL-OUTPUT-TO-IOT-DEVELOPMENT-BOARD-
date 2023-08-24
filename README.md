@@ -287,9 +287,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 ON
+
   ![WhatsApp Image 2023-08-17 at 19 33 07](https://github.com/kaviya2839/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/120553351/233252fb-ad2d-41e8-af39-944ae482ef42)
+  
 
 OFF 
+
  ![WhatsApp Image 2023-08-17 at 19 33 17](https://github.com/kaviya2839/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/120553351/99774e9a-0078-4342-8998-490141195b70)
 
  
